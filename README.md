@@ -1,3 +1,3 @@
 # My-Portfolio
-I made this portfolio using tailwind's CSS framework. Simple and concise resume!
+Made this simple and consised portfolio using Tailwind (CSS framework).
  https://muneerra.github.io/My-Portfolio/.
